@@ -1,9 +1,9 @@
 /*
    
-    Template Name : WebRes - Personal Resume Template
-    Author : UiPasta Team
-    Website : http://www.uipasta.com/
-    Support : http://www.uipasta.com/support/
+    Template Name : Aravind's Ressume
+    Author : Aravind
+    Website : http://maplebytes.wordpress.com
+    
 	
 	
 */
@@ -17,14 +17,11 @@
    1. Global Style
    2. Preloader
    3. Home Section and Navigation Menu
-   4. Qualification and Experience
    5. About
       5.1 Skills
       5.2 Subscribe
    6. Portfolio
-   7. Testimonial
-   8. Statistics
-   9. Services
+   7. Cetrification
   10. Call to Action
   11. Contact Us
   12. Social Icons
@@ -32,7 +29,6 @@
   14. Scroll To Top
   15. Responsive
   16. Useful Classes ( Such as : Margin, Padding, colors  "This classes will be helpful for you during designing/development time.")
-  17. UiPasta Credit
  
 
 */
@@ -950,44 +946,6 @@ ul.portfolio li.active {
 
 
 
-/* Services */
-
-.services-section {
-  background-color: #F9F9F9;
-}
-
-.services-section hr {
-  border-bottom: 2px solid #4c9cef;
-  width: 42px;
-  margin: 0 auto;
-}
-
-.services-section .services-detail {
-    border-radius: 100%;
-    background-color: #ffffff;
-    box-shadow: 0px 1px 2px 0px rgba(90, 91, 95, 0.15);
-    transition: all 0.3s ease-in-out;
-    position: relative;
-    width: 300px;
-    height: 300px;
-    text-align: center;
-    margin: 0 auto;
-    margin-bottom: 30px;
-}
-
-.services-section .services-detail:hover {
-    border-bottom-right-radius: 4px;
-    box-shadow: 0px 16px 22px 0px rgba(90, 91, 95, 0.3);
-    top: -5px;
-}
-
-.services-section .services-detail i {
-   font-size: 42px;
-   margin-top: 88px;
-   display: inline-block;
-   vertical-align: middle;
-}
-
 
 
 /* Call to Action */
@@ -1807,7 +1765,7 @@ ul.portfolio li.active {
 
 
 
-/* UiPasta Credit */
+/* UiPasta Credit  but these all are edit by Aravind*/
 
 .uipasta-credit {
 	color: #333333;
